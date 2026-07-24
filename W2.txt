@@ -1,0 +1,31 @@
+Reverse-Engineer the physics: discuss what makes the physics in your chosen game fun and how the mechanics might be built under the hood
+wacky physics, nearly evgerything has physics and can be interacted with in some way, like via the gravity gun
+
+mechanics:
+	anchor point at middle of screen
+	button to pick up object at crosshair
+	button to let object go at anchor point
+	button  to launch object (addforce?) in direction of crosshair
+
+User Story:
+as a player, i want to pick up objects at a moderate distance, and either launch or drop them at the location of crosshair.
+
+
+
+ideas:
+3d game utilising gravity gun, weight pressure plates and targets to hit with objects, some objects destructible with enough force
+2d game utilising gravity switching to fling objects to where they are needed in order to solve puzzles, puzzle objects used could include gravity beams (like in portal 2) alongside pressure plates, end goal could be a teleporter on a specific side, forcing the end goal to have the gravity set to that direction
+
+
+For Journal:
+
+Activity 2: Mechanics of your Physics Gym
+Now apply this same process to your own project for Assignment 1.
+
+Write the Problem and Solution: Draft a clear "Problem" and "Solution" statement for the Physics Gym core mechanic.
+
+Problem Example: I want to use a novel control scheme to move different limbs of a player controller to navigate environment hazards.
+
+Solution Example: The system will feature a wonky/semi-realistic physics system to drive character limb movements, resulting in an interesting/comedic control scheme that is easy to play, yet difficult to master.
+
+Create a User Story: Write a brief user story for the game that mirrors the exact technical format required for your Assignment 1 journal.
